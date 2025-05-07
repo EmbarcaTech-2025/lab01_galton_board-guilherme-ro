@@ -65,10 +65,10 @@ Há um vídeo de demonstração.
 
 ### Imagens do Projeto
 <p align="center">
-  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_9_slots.png" width="500" height="600" alt="Bitdoglab">
+  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_9_slots.png" width="361" height="378" alt="Bitdoglab">
 </p>
 <p align="center">
-  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_16_slots.png" width="500" height="600" alt="Bitdoglab">
+  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_16_slots.png" width="362" height="370" alt="Bitdoglab">
 </p>
 
 ### Como Compilar no Linux:

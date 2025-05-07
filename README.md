@@ -30,6 +30,7 @@ Desenvolvimento de um programa em linguagem C com pico SDK que implementa um Dig
 
 - Código desenvolvido em linguagem C com Pico SDK.
 - Implementação modular e estruturada do código.
+- SDK 1.5.1
 
 ### Comportamento do Programa:
 

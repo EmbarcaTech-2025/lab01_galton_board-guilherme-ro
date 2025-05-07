@@ -1,4 +1,4 @@
-# 📄 Documentação Técnica — Contador Decrescente com Interrupção
+# 📄 Documentação Técnica — Galton Board
 
 Este documento complementa o `README.md` com Estrutura do Projeto e Referências.
 

@@ -64,11 +64,12 @@ O código permite ajustes finos, como o número de estacas/pinos de desvio das b
 Há um vídeo de demonstração.
 
 ### Imagens do Projeto
+
 <p align="center">
-  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_9_slots.png" width="361" height="378" alt="Bitdoglab">
+  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_9_slots.png" width="361" height="378" alt="Bitdoglab" title="Galton Board com 9 Slots">
 </p>
 <p align="center">
-  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_16_slots.png" width="362" height="370" alt="Bitdoglab">
+  <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-guilherme-ro/raw/main/assets/galton_board_16_slots.png" width="362" height="370" alt="Bitdoglab" title="Galton Board com 16 Slots">
 </p>
 
 ### Como Compilar no Linux:

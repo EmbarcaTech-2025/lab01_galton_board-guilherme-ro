@@ -68,6 +68,9 @@ if (NOT EXISTS ${PICO_SDK_INIT_CMAKE_FILE})
     message(FATAL_ERROR "Directory '${PICO_SDK_PATH}' does not appear to contain the Raspberry Pi Pico SDK")
 endif ()
 
-set(PICO_SDK_PATH ${PICO_SDK_PATH} CACHE PATH "Path to the Raspberry Pi Pico SDK" FORCE)
+# set(PICO_SDK_PATH ${PICO_SDK_PATH} CACHE PATH "Path to the Raspberry Pi Pico SDK" FORCE)
 
-include(${PICO_SDK_INIT_CMAKE_FILE})
+# include(${PICO_SDK_INIT_CMAKE_FILE})
+
+set(PICO_SDK_PATH "${CMAKE_CURRENT_LIST_DIR}/../pico-sdk")
+include(${PICO_SDK_PATH}/pico_sdk_init.cmake)
